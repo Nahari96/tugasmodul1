@@ -1,0 +1,13 @@
+C:\Users\fajar\source\repos\kelompok39\kelompok39\kelompok39\bin\Debug\netstandard2.0\kelompok39.deps.json
+C:\Users\fajar\source\repos\kelompok39\kelompok39\kelompok39\bin\Debug\netstandard2.0\kelompok39.dll
+C:\Users\fajar\source\repos\kelompok39\kelompok39\kelompok39\bin\Debug\netstandard2.0\kelompok39.pdb
+C:\Users\fajar\source\repos\kelompok39\kelompok39\kelompok39\obj\Debug\netstandard2.0\kelompok39.csprojAssemblyReference.cache
+C:\Users\fajar\source\repos\kelompok39\kelompok39\kelompok39\obj\Debug\netstandard2.0\kelompok39.csproj.CoreCompileInputs.cache
+C:\Users\fajar\source\repos\kelompok39\kelompok39\kelompok39\obj\Debug\netstandard2.0\kelompok39.AssemblyInfoInputs.cache
+C:\Users\fajar\source\repos\kelompok39\kelompok39\kelompok39\obj\Debug\netstandard2.0\kelompok39.AssemblyInfo.cs
+C:\Users\fajar\source\repos\kelompok39\kelompok39\kelompok39\obj\Debug\netstandard2.0\kelompok39.dll
+C:\Users\fajar\source\repos\kelompok39\kelompok39\kelompok39\obj\Debug\netstandard2.0\kelompok39.pdb
+C:\Users\fajar\source\repos\kelompok39\kelompok39\kelompok39\obj\Debug\netstandard2.0\kelompok39.App.xaml.g.cs
+C:\Users\fajar\source\repos\kelompok39\kelompok39\kelompok39\obj\Debug\netstandard2.0\kelompok39.LoginPage.xaml.g.cs
+C:\Users\fajar\source\repos\kelompok39\kelompok39\kelompok39\obj\Debug\netstandard2.0\kelompok39.MainPage.xaml.g.cs
+C:\Users\fajar\source\repos\kelompok39\kelompok39\kelompok39\obj\Debug\netstandard2.0\kelompok39.SignUpPage.xaml.g.cs
